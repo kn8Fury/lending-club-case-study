@@ -1,6 +1,6 @@
 # LENDING CLUB - CASE STUDY
 
-This is a case study to identify patterns in a set of customers who have been lent a loan by a consumer finance company.
+This is a case study to identify patterns in a set of customers who borrowed loans from a consumer finance company.
 
 ## Table of Contents
 
@@ -21,20 +21,21 @@ It is critical to identify these patterns for the following reasons:
 The data is provided by "a" consumer finance company. It has *the complete loan data for all loans issued from 2007 to 2011*. A data dictionary that describes the attributes is also provided.
 
 ## Conclusions
+
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
 ## Technologies Used
+
 | Library | Version |
 | - | - |
-| `numpy` | `1.20.1` |
-| `pandas` | `1.2.4` |
-| `matplotlib` | `3.3.4` |
-| `seaborn` | `0.11.1` |
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+| `python` | `3.9.7` |
+| `numpy` | `1.20.2` |
+| `pandas` | `1.3.4` |
+| `matplotlib` | `3.5.0` |
+| `seaborn` | `0.11.2` |
 
 ## Acknowledgements
 
